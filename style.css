@@ -1,0 +1,76 @@
+.hero{
+    height:770px;
+    background-color: #e4f9f5;
+    margin-top:0px!important;
+    display:grid;
+}
+.mount{
+    margin-top:10px;
+    height:357px;
+    width:593px;
+    
+}
+.head{
+    font-family: "Sacramento", cursive !important ;
+    font-weight: 900 !important; 
+    font-style: normal;
+    color: #66bfbf !important;
+    font-size: 5.625rem;
+    margin-top:80px;
+}
+.para{
+    font-family: "Poppins", sans-serif !important;
+    font-weight: 400 !important; 
+    font-style: normal;
+    color: #66bfbf !important;
+    font-size: 1.125rem;
+}
+.cloud2{
+    float:right;
+    margin-right:30px;
+}
+.cloud{
+    margin-left:100px;
+}
+.me{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    object-fit: cover;
+    margin-bottom: 30px;
+}
+h1,h2{
+    color: #66bfbf;
+}
+hr {
+    border: dotted #66bfbf 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+.plane{
+    float:left;
+    height:200px;
+    width:300px;
+    margin-left:200px;
+}
+#bio{
+    margin-right:200px;
+}
+.btn{
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-left:45%;
+    margin-bottom:85px;
+}
